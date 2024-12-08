@@ -1,4 +1,4 @@
-code = '50aa04343fcc'
+code = 'tripp'
 button = document.getElementById("redirect")
 check = document.getElementById("status")
 
